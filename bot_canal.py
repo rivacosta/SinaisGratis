@@ -15,7 +15,7 @@ if not TOKEN:
 
 # --- 2. OUTRAS CONFIGURAÇÕES ---
 # ⚠️ SUBSTITUA PELO LINK DO SEU CANAL REAL (este valor pode ficar aqui)
-CANAL_LINK = "https://t.me/+0iJ3521vnfMyZmNh"
+CANAL_LINK = "https://t.me/+PG7sb9vyd25mZWRh"
 BOTAO_TEXTO = "👉 Entrar no Canal Exclusivo"
 
 
@@ -65,3 +65,4 @@ def main() -> None:
 
 if __name__ == '__main__':
     main()
+
